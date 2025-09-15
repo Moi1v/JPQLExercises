@@ -1,0 +1,802 @@
+[
+  {
+    "nombre": "José Godoy",
+    "email": "jose.godoy@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 20,
+    "activo": false,
+    "fechaRegistro": "2025-09-13"
+  },
+  {
+    "nombre": "Mónica Alvarado",
+    "email": "monica.alvarado@mail.com",
+    "ciudad": "Antigua",
+    "edad": 21,
+    "activo": true,
+    "fechaRegistro": "2025-09-12"
+  },
+  {
+    "nombre": "Marina Navarro",
+    "email": "marina.navarro@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 22,
+    "activo": true,
+    "fechaRegistro": "2025-09-11"
+  },
+  {
+    "nombre": "Miriam Juárez",
+    "email": "miriam.juarez@mail.com",
+    "ciudad": "Cobán",
+    "edad": 23,
+    "activo": true,
+    "fechaRegistro": "2025-09-10"
+  },
+  {
+    "nombre": "Mario Mejía",
+    "email": "mario.mejia@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 24,
+    "activo": true,
+    "fechaRegistro": "2025-09-09"
+  },
+  {
+    "nombre": "Héctor López",
+    "email": "hector.lopez@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 25,
+    "activo": true,
+    "fechaRegistro": "2025-09-08"
+  },
+  {
+    "nombre": "Jimena Quiñónez",
+    "email": "jimena.quinonez@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 26,
+    "activo": true,
+    "fechaRegistro": "2025-09-07"
+  },
+  {
+    "nombre": "Gonzalo Rosales",
+    "email": "gonzalo.rosales@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 27,
+    "activo": true,
+    "fechaRegistro": "2025-09-06"
+  },
+  {
+    "nombre": "Alicia García",
+    "email": "alicia.garcia@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 28,
+    "activo": true,
+    "fechaRegistro": "2025-09-05"
+  },
+  {
+    "nombre": "Camila Sánchez",
+    "email": "camila.sanchez@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 29,
+    "activo": false,
+    "fechaRegistro": "2025-09-04"
+  },
+  {
+    "nombre": "Patricia Segura",
+    "email": "patricia.segura@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 30,
+    "activo": true,
+    "fechaRegistro": "2025-09-03"
+  },
+  {
+    "nombre": "Adriana Orantes",
+    "email": "adriana.orantes@mail.com",
+    "ciudad": "Antigua",
+    "edad": 31,
+    "activo": true,
+    "fechaRegistro": "2025-09-02"
+  },
+  {
+    "nombre": "Sofía Ortega",
+    "email": "sofia.ortega@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 32,
+    "activo": true,
+    "fechaRegistro": "2025-09-01"
+  },
+  {
+    "nombre": "Esteban Zetina",
+    "email": "esteban.zetina@mail.com",
+    "ciudad": "Cobán",
+    "edad": 33,
+    "activo": true,
+    "fechaRegistro": "2025-08-31"
+  },
+  {
+    "nombre": "Fernanda Recinos",
+    "email": "fernanda.recinos@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 34,
+    "activo": true,
+    "fechaRegistro": "2025-08-30"
+  },
+  {
+    "nombre": "Tomás Recinos",
+    "email": "tomas.recinos@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 35,
+    "activo": true,
+    "fechaRegistro": "2025-08-29"
+  },
+  {
+    "nombre": "Rodrigo Ramos",
+    "email": "rodrigo.ramos@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 36,
+    "activo": true,
+    "fechaRegistro": "2025-08-28"
+  },
+  {
+    "nombre": "Ángel Godoy",
+    "email": "angel.godoy@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 37,
+    "activo": true,
+    "fechaRegistro": "2025-08-27"
+  },
+  {
+    "nombre": "Silvia Zetina",
+    "email": "silvia.zetina@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 38,
+    "activo": false,
+    "fechaRegistro": "2025-08-26"
+  },
+  {
+    "nombre": "Héctor Fuentes",
+    "email": "hector.fuentes@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 39,
+    "activo": true,
+    "fechaRegistro": "2025-08-25"
+  },
+  {
+    "nombre": "Jorge Godoy",
+    "email": "jorge.godoy@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 40,
+    "activo": true,
+    "fechaRegistro": "2025-08-24"
+  },
+  {
+    "nombre": "Inés Ruiz",
+    "email": "ines.ruiz@mail.com",
+    "ciudad": "Antigua",
+    "edad": 41,
+    "activo": true,
+    "fechaRegistro": "2025-08-23"
+  },
+  {
+    "nombre": "Irene Téllez",
+    "email": "irene.tellez@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 42,
+    "activo": true,
+    "fechaRegistro": "2025-08-22"
+  },
+  {
+    "nombre": "Gael Castillo",
+    "email": "gael.castillo@mail.com",
+    "ciudad": "Cobán",
+    "edad": 43,
+    "activo": true,
+    "fechaRegistro": "2025-08-21"
+  },
+  {
+    "nombre": "Camila Bonilla",
+    "email": "camila.bonilla@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 44,
+    "activo": true,
+    "fechaRegistro": "2025-08-20"
+  },
+  {
+    "nombre": "Samuel Chacón",
+    "email": "samuel.chacon@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 45,
+    "activo": true,
+    "fechaRegistro": "2025-08-19"
+  },
+  {
+    "nombre": "Pilar Flores",
+    "email": "pilar.flores@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 46,
+    "activo": true,
+    "fechaRegistro": "2025-08-18"
+  },
+  {
+    "nombre": "Verónica Paniagua",
+    "email": "veronica.paniagua@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 47,
+    "activo": false,
+    "fechaRegistro": "2025-08-17"
+  },
+  {
+    "nombre": "Santiago Espinoza",
+    "email": "santiago.espinoza@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 48,
+    "activo": true,
+    "fechaRegistro": "2025-08-16"
+  },
+  {
+    "nombre": "Ana Orellana",
+    "email": "ana.orellana@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 49,
+    "activo": true,
+    "fechaRegistro": "2025-08-15"
+  },
+  {
+    "nombre": "Rocío López",
+    "email": "rocio.lopez@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 50,
+    "activo": true,
+    "fechaRegistro": "2025-08-14"
+  },
+  {
+    "nombre": "Luis Yanes",
+    "email": "luis.yanes@mail.com",
+    "ciudad": "Antigua",
+    "edad": 51,
+    "activo": true,
+    "fechaRegistro": "2025-08-13"
+  },
+  {
+    "nombre": "Arturo Palacios",
+    "email": "arturo.palacios@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 52,
+    "activo": true,
+    "fechaRegistro": "2025-08-12"
+  },
+  {
+    "nombre": "Fernanda García",
+    "email": "fernanda.garcia@mail.com",
+    "ciudad": "Cobán",
+    "edad": 53,
+    "activo": true,
+    "fechaRegistro": "2025-08-11"
+  },
+  {
+    "nombre": "Gloria Díaz",
+    "email": "gloria.diaz@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 54,
+    "activo": true,
+    "fechaRegistro": "2025-08-10"
+  },
+  {
+    "nombre": "Pablo Fuentes",
+    "email": "pablo.fuentes@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 55,
+    "activo": true,
+    "fechaRegistro": "2025-08-09"
+  },
+  {
+    "nombre": "Josué Romero",
+    "email": "josue.romero@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 56,
+    "activo": false,
+    "fechaRegistro": "2025-08-08"
+  },
+  {
+    "nombre": "Ariana Sánchez",
+    "email": "ariana.sanchez@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 57,
+    "activo": true,
+    "fechaRegistro": "2025-08-07"
+  },
+  {
+    "nombre": "Laura Peralta",
+    "email": "laura.peralta@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 58,
+    "activo": true,
+    "fechaRegistro": "2025-08-06"
+  },
+  {
+    "nombre": "Diana Valdez",
+    "email": "diana.valdez@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 59,
+    "activo": true,
+    "fechaRegistro": "2025-08-05"
+  },
+  {
+    "nombre": "Gloria Estrada",
+    "email": "gloria.estrada@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 60,
+    "activo": true,
+    "fechaRegistro": "2025-08-04"
+  },
+  {
+    "nombre": "Teresa Reyes",
+    "email": "teresa.reyes@mail.com",
+    "ciudad": "Antigua",
+    "edad": 20,
+    "activo": true,
+    "fechaRegistro": "2025-08-03"
+  },
+  {
+    "nombre": "Laura Maldonado",
+    "email": "laura.maldonado@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 21,
+    "activo": true,
+    "fechaRegistro": "2025-08-02"
+  },
+  {
+    "nombre": "Kevin Xicará",
+    "email": "kevin.xicara@mail.com",
+    "ciudad": "Cobán",
+    "edad": 22,
+    "activo": true,
+    "fechaRegistro": "2025-08-01"
+  },
+  {
+    "nombre": "Diana Rosales",
+    "email": "diana.rosales@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 23,
+    "activo": true,
+    "fechaRegistro": "2025-07-31"
+  },
+  {
+    "nombre": "Emilia Morales",
+    "email": "emilia.morales@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 24,
+    "activo": false,
+    "fechaRegistro": "2025-09-13"
+  },
+  {
+    "nombre": "Elías Ruiz",
+    "email": "elias.ruiz@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 25,
+    "activo": true,
+    "fechaRegistro": "2025-09-12"
+  },
+  {
+    "nombre": "Kevin Calderón",
+    "email": "kevin.calderon@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 26,
+    "activo": true,
+    "fechaRegistro": "2025-09-11"
+  },
+  {
+    "nombre": "Luis Navarro",
+    "email": "luis.navarro@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 27,
+    "activo": true,
+    "fechaRegistro": "2025-09-10"
+  },
+  {
+    "nombre": "José Barrera",
+    "email": "jose.barrera@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 28,
+    "activo": true,
+    "fechaRegistro": "2025-09-09"
+  },
+  {
+    "nombre": "Óscar Zamora",
+    "email": "oscar.zamora@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 29,
+    "activo": true,
+    "fechaRegistro": "2025-09-08"
+  },
+  {
+    "nombre": "Sebastián Gómez",
+    "email": "sebastian.gomez@mail.com",
+    "ciudad": "Antigua",
+    "edad": 30,
+    "activo": true,
+    "fechaRegistro": "2025-09-07"
+  },
+  {
+    "nombre": "Mónica Valdez",
+    "email": "monica.valdez@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 31,
+    "activo": true,
+    "fechaRegistro": "2025-09-06"
+  },
+  {
+    "nombre": "Irene Juárez",
+    "email": "irene.juarez@mail.com",
+    "ciudad": "Cobán",
+    "edad": 32,
+    "activo": true,
+    "fechaRegistro": "2025-09-05"
+  },
+  {
+    "nombre": "Antonio García",
+    "email": "antonio.garcia@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 33,
+    "activo": false,
+    "fechaRegistro": "2025-09-04"
+  },
+  {
+    "nombre": "Rubén Yax",
+    "email": "ruben.yax@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 34,
+    "activo": true,
+    "fechaRegistro": "2025-09-03"
+  },
+  {
+    "nombre": "Antonio Cruz",
+    "email": "antonio.cruz@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 35,
+    "activo": true,
+    "fechaRegistro": "2025-09-02"
+  },
+  {
+    "nombre": "Daniela Vargas",
+    "email": "daniela.vargas@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 36,
+    "activo": true,
+    "fechaRegistro": "2025-09-01"
+  },
+  {
+    "nombre": "Rosa Reyes",
+    "email": "rosa.reyes@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 37,
+    "activo": true,
+    "fechaRegistro": "2025-08-31"
+  },
+  {
+    "nombre": "Diego Escobar",
+    "email": "diego.escobar@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 38,
+    "activo": true,
+    "fechaRegistro": "2025-08-30"
+  },
+  {
+    "nombre": "Marina Morales",
+    "email": "marina.morales@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 39,
+    "activo": true,
+    "fechaRegistro": "2025-08-29"
+  },
+  {
+    "nombre": "Renata Vargas",
+    "email": "renata.vargas@mail.com",
+    "ciudad": "Antigua",
+    "edad": 40,
+    "activo": true,
+    "fechaRegistro": "2025-08-28"
+  },
+  {
+    "nombre": "Pedro Gómez",
+    "email": "pedro.gomez@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 41,
+    "activo": true,
+    "fechaRegistro": "2025-08-27"
+  },
+  {
+    "nombre": "Santiago Navarro",
+    "email": "santiago.navarro@mail.com",
+    "ciudad": "Cobán",
+    "edad": 42,
+    "activo": false,
+    "fechaRegistro": "2025-08-26"
+  },
+  {
+    "nombre": "Eduardo Ortiz",
+    "email": "eduardo.ortiz@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 43,
+    "activo": true,
+    "fechaRegistro": "2025-08-25"
+  },
+  {
+    "nombre": "Santiago Pérez",
+    "email": "santiago.perez@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 44,
+    "activo": true,
+    "fechaRegistro": "2025-08-24"
+  },
+  {
+    "nombre": "Julio Xicará",
+    "email": "julio.xicara@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 45,
+    "activo": true,
+    "fechaRegistro": "2025-08-23"
+  },
+  {
+    "nombre": "Miriam Morales",
+    "email": "miriam.morales@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 46,
+    "activo": true,
+    "fechaRegistro": "2025-08-22"
+  },
+  {
+    "nombre": "Sara Paredes",
+    "email": "sara.paredes@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 47,
+    "activo": true,
+    "fechaRegistro": "2025-08-21"
+  },
+  {
+    "nombre": "Elena Soto",
+    "email": "elena.soto@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 48,
+    "activo": true,
+    "fechaRegistro": "2025-08-20"
+  },
+  {
+    "nombre": "Teresa Carrillo",
+    "email": "teresa.carrillo@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 49,
+    "activo": true,
+    "fechaRegistro": "2025-08-19"
+  },
+  {
+    "nombre": "Valeria Paniagua",
+    "email": "valeria.paniagua@mail.com",
+    "ciudad": "Antigua",
+    "edad": 50,
+    "activo": true,
+    "fechaRegistro": "2025-08-18"
+  },
+  {
+    "nombre": "Ángel García",
+    "email": "angel.garcia@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 51,
+    "activo": false,
+    "fechaRegistro": "2025-08-17"
+  },
+  {
+    "nombre": "Josué García",
+    "email": "josue.garcia@mail.com",
+    "ciudad": "Cobán",
+    "edad": 52,
+    "activo": true,
+    "fechaRegistro": "2025-08-16"
+  },
+  {
+    "nombre": "Cristian Cruz",
+    "email": "cristian.cruz@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 53,
+    "activo": true,
+    "fechaRegistro": "2025-08-15"
+  },
+  {
+    "nombre": "Manuel Alvarado",
+    "email": "manuel.alvarado@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 54,
+    "activo": true,
+    "fechaRegistro": "2025-08-14"
+  },
+  {
+    "nombre": "Pilar Escobar",
+    "email": "pilar.escobar@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 55,
+    "activo": true,
+    "fechaRegistro": "2025-08-13"
+  },
+  {
+    "nombre": "Valeria Vargas",
+    "email": "valeria.vargas@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 56,
+    "activo": true,
+    "fechaRegistro": "2025-08-12"
+  },
+  {
+    "nombre": "Carolina Orellana",
+    "email": "carolina.orellana@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 57,
+    "activo": true,
+    "fechaRegistro": "2025-08-11"
+  },
+  {
+    "nombre": "Rosa Jiménez",
+    "email": "rosa.jimenez@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 58,
+    "activo": true,
+    "fechaRegistro": "2025-08-10"
+  },
+  {
+    "nombre": "Inés Reyes",
+    "email": "ines.reyes@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 59,
+    "activo": true,
+    "fechaRegistro": "2025-08-09"
+  },
+  {
+    "nombre": "Rodrigo Pérez",
+    "email": "rodrigo.perez@mail.com",
+    "ciudad": "Antigua",
+    "edad": 60,
+    "activo": false,
+    "fechaRegistro": "2025-08-08"
+  },
+  {
+    "nombre": "Verónica Gómez",
+    "email": "veronica.gomez@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 20,
+    "activo": true,
+    "fechaRegistro": "2025-08-07"
+  },
+  {
+    "nombre": "Héctor Ortega",
+    "email": "hector.ortega@mail.com",
+    "ciudad": "Cobán",
+    "edad": 21,
+    "activo": true,
+    "fechaRegistro": "2025-08-06"
+  },
+  {
+    "nombre": "Paula Valdez",
+    "email": "paula.valdez@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 22,
+    "activo": true,
+    "fechaRegistro": "2025-08-05"
+  },
+  {
+    "nombre": "Raúl Solórzano",
+    "email": "raul.solorzano@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 23,
+    "activo": true,
+    "fechaRegistro": "2025-08-04"
+  },
+  {
+    "nombre": "Marta Soto",
+    "email": "marta.soto@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 24,
+    "activo": true,
+    "fechaRegistro": "2025-08-03"
+  },
+  {
+    "nombre": "Mónica Ortiz",
+    "email": "monica.ortiz@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 25,
+    "activo": true,
+    "fechaRegistro": "2025-08-02"
+  },
+  {
+    "nombre": "Raúl Carrillo",
+    "email": "raul.carrillo@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 26,
+    "activo": true,
+    "fechaRegistro": "2025-08-01"
+  },
+  {
+    "nombre": "Samuel Galdámez",
+    "email": "samuel.galdamez@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 27,
+    "activo": true,
+    "fechaRegistro": "2025-07-31"
+  },
+  {
+    "nombre": "Fabián Peralta",
+    "email": "fabian.peralta@mail.com",
+    "ciudad": "Guatemala",
+    "edad": 28,
+    "activo": false,
+    "fechaRegistro": "2025-09-13"
+  },
+  {
+    "nombre": "Luis Herrera",
+    "email": "luis.herrera@mail.com",
+    "ciudad": "Antigua",
+    "edad": 29,
+    "activo": true,
+    "fechaRegistro": "2025-09-12"
+  },
+  {
+    "nombre": "Paula Peralta",
+    "email": "paula.peralta@mail.com",
+    "ciudad": "Quetzaltenango",
+    "edad": 30,
+    "activo": true,
+    "fechaRegistro": "2025-09-11"
+  },
+  {
+    "nombre": "Daniela Fuentes",
+    "email": "daniela.fuentes@mail.com",
+    "ciudad": "Cobán",
+    "edad": 31,
+    "activo": true,
+    "fechaRegistro": "2025-09-10"
+  },
+  {
+    "nombre": "Hugo Jiménez",
+    "email": "hugo.jimenez@mail.com",
+    "ciudad": "Escuintla",
+    "edad": 32,
+    "activo": true,
+    "fechaRegistro": "2025-09-09"
+  },
+  {
+    "nombre": "Rubén Itzep",
+    "email": "ruben.itzep@mail.com",
+    "ciudad": "Chiquimula",
+    "edad": 33,
+    "activo": true,
+    "fechaRegistro": "2025-09-08"
+  },
+  {
+    "nombre": "Gabriela Campos",
+    "email": "gabriela.campos@mail.com",
+    "ciudad": "Huehuetenango",
+    "edad": 34,
+    "activo": true,
+    "fechaRegistro": "2025-09-07"
+  },
+  {
+    "nombre": "Andrés Paniagua",
+    "email": "andres.paniagua@mail.com",
+    "ciudad": "Mazatenango",
+    "edad": 35,
+    "activo": true,
+    "fechaRegistro": "2025-09-06"
+  },
+  {
+    "nombre": "Leonardo Godoy",
+    "email": "leonardo.godoy@mail.com",
+    "ciudad": "Retalhuleu",
+    "edad": 36,
+    "activo": true,
+    "fechaRegistro": "2025-09-05"
+  },
+  {
+    "nombre": "Carla Carrillo",
+    "email": "carla.carrillo@mail.com",
+    "ciudad": "Jalapa",
+    "edad": 37,
+    "activo": false,
+    "fechaRegistro": "2025-09-04"
+  }
+]

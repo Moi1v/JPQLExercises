@@ -1,0 +1,1002 @@
+[
+  {
+    "titulo": "Cien Años de Soledad (Ed. 1)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Drama",
+    "precio": 85.33,
+    "stock": 27,
+    "activo": false,
+    "fechaPublicacion": "1976-04-18",
+    "descripcion": null
+  },
+  {
+    "titulo": "Don Quijote de la Mancha (Ed. 1)",
+    "autorNombre": "Miguel de Cervantes",
+    "genero": "Ciencia Ficción",
+    "precio": 71.3,
+    "stock": 11,
+    "activo": true,
+    "fechaPublicacion": "1975-03-24",
+    "descripcion": "Narrativa intensa y cautivadora."
+  },
+  {
+    "titulo": "El Principito (Ed. 1)",
+    "autorNombre": "Antoine de Saint-Exupéry",
+    "genero": "Novela",
+    "precio": 196.24,
+    "stock": 19,
+    "activo": true,
+    "fechaPublicacion": "1989-03-12",
+    "descripcion": "Narrativa intensa y cautivadora."
+  },
+  {
+    "titulo": "1984 (Ed. 1)",
+    "autorNombre": "George Orwell",
+    "genero": "Ciencia Ficción",
+    "precio": 278.08,
+    "stock": 3,
+    "activo": true,
+    "fechaPublicacion": "1952-02-16",
+    "descripcion": "Lectura obligada en múltiples universidades."
+  },
+  {
+    "titulo": "Orgullo y Prejuicio (Ed. 1)",
+    "autorNombre": "Jane Austen",
+    "genero": "Novela",
+    "precio": 207.3,
+    "stock": 1,
+    "activo": true,
+    "fechaPublicacion": "1960-03-19",
+    "descripcion": "Narrativa intensa y cautivadora."
+  },
+  {
+    "titulo": "Crónica de una Muerte Anunciada (Ed. 1)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Realismo Mágico",
+    "precio": 245.87,
+    "stock": 27,
+    "activo": true,
+    "fechaPublicacion": "2009-02-23",
+    "descripcion": null
+  },
+  {
+    "titulo": "Rayuela (Ed. 1)",
+    "autorNombre": "Julio Cortázar",
+    "genero": "Realismo Mágico",
+    "precio": 100.59,
+    "stock": 16,
+    "activo": true,
+    "fechaPublicacion": "1980-08-27",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "Ficciones (Ed. 1)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Realismo Mágico",
+    "precio": 144.36,
+    "stock": 6,
+    "activo": true,
+    "fechaPublicacion": "1988-06-10",
+    "descripcion": "Narrativa intensa y cautivadora."
+  },
+  {
+    "titulo": "La Sombra del Viento (Ed. 1)",
+    "autorNombre": "Carlos Ruiz Zafón",
+    "genero": "Infantil",
+    "precio": 105.78,
+    "stock": 19,
+    "activo": true,
+    "fechaPublicacion": "2010-01-14",
+    "descripcion": "Narrativa intensa y cautivadora."
+  },
+  {
+    "titulo": "Los Detectives Salvajes (Ed. 1)",
+    "autorNombre": "Roberto Bolaño",
+    "genero": "Romántica",
+    "precio": 283.74,
+    "stock": 6,
+    "activo": true,
+    "fechaPublicacion": "2015-12-02",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "Pedro Páramo (Ed. 1)",
+    "autorNombre": "Juan Rulfo",
+    "genero": "Ciencia Ficción",
+    "precio": 127.12,
+    "stock": 23,
+    "activo": true,
+    "fechaPublicacion": "1967-05-11",
+    "descripcion": null
+  },
+  {
+    "titulo": "La Ciudad y los Perros (Ed. 1)",
+    "autorNombre": "Mario Vargas Llosa",
+    "genero": "Distopía",
+    "precio": 159.6,
+    "stock": 12,
+    "activo": false,
+    "fechaPublicacion": "1975-09-21",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "Ensayo sobre la Ceguera (Ed. 1)",
+    "autorNombre": "José Saramago",
+    "genero": "Infantil",
+    "precio": 267.27,
+    "stock": 18,
+    "activo": true,
+    "fechaPublicacion": "2021-04-28",
+    "descripcion": "Recomendada para jóvenes y adultos."
+  },
+  {
+    "titulo": "El Aleph (Ed. 1)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Drama",
+    "precio": 245.8,
+    "stock": 16,
+    "activo": true,
+    "fechaPublicacion": "1970-05-12",
+    "descripcion": "Recomendada para jóvenes y adultos."
+  },
+  {
+    "titulo": "La Metamorfosis (Ed. 1)",
+    "autorNombre": "Franz Kafka",
+    "genero": "Novela",
+    "precio": 80.09,
+    "stock": 8,
+    "activo": true,
+    "fechaPublicacion": "1996-10-01",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "Madame Bovary (Ed. 1)",
+    "autorNombre": "Gustave Flaubert",
+    "genero": "Drama",
+    "precio": 253.1,
+    "stock": 13,
+    "activo": true,
+    "fechaPublicacion": "1955-09-05",
+    "descripcion": null
+  },
+  {
+    "titulo": "Guerra y Paz (Ed. 1)",
+    "autorNombre": "León Tolstói",
+    "genero": "Aventura",
+    "precio": 87.8,
+    "stock": 26,
+    "activo": true,
+    "fechaPublicacion": "1968-07-13",
+    "descripcion": "Lectura obligada en múltiples universidades."
+  },
+  {
+    "titulo": "Ana Karenina (Ed. 1)",
+    "autorNombre": "León Tolstói",
+    "genero": "Distopía",
+    "precio": 288.14,
+    "stock": 8,
+    "activo": true,
+    "fechaPublicacion": "1990-06-11",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "Ulises (Ed. 1)",
+    "autorNombre": "James Joyce",
+    "genero": "Romántica",
+    "precio": 144.01,
+    "stock": 18,
+    "activo": true,
+    "fechaPublicacion": "2020-02-10",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "Moby Dick (Ed. 1)",
+    "autorNombre": "Herman Melville",
+    "genero": "Realismo Mágico",
+    "precio": 213.86,
+    "stock": 5,
+    "activo": true,
+    "fechaPublicacion": "1991-03-18",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "Cien Años de Soledad (Ed. 2)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Romántica",
+    "precio": 264.2,
+    "stock": 5,
+    "activo": true,
+    "fechaPublicacion": "2007-08-09",
+    "descripcion": null
+  },
+  {
+    "titulo": "Don Quijote de la Mancha (Ed. 2)",
+    "autorNombre": "Miguel de Cervantes",
+    "genero": "Novela",
+    "precio": 140.46,
+    "stock": 2,
+    "activo": true,
+    "fechaPublicacion": "2017-08-10",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "El Principito (Ed. 2)",
+    "autorNombre": "Antoine de Saint-Exupéry",
+    "genero": "Aventura",
+    "precio": 72.09,
+    "stock": 11,
+    "activo": false,
+    "fechaPublicacion": "2013-11-19",
+    "descripcion": "Versión traducida y comentada."
+  },
+  {
+    "titulo": "1984 (Ed. 2)",
+    "autorNombre": "George Orwell",
+    "genero": "Clásico",
+    "precio": 134.15,
+    "stock": 24,
+    "activo": true,
+    "fechaPublicacion": "1957-12-02",
+    "descripcion": "Adaptada a cine y televisión."
+  },
+  {
+    "titulo": "Orgullo y Prejuicio (Ed. 2)",
+    "autorNombre": "Jane Austen",
+    "genero": "Distopía",
+    "precio": 166.55,
+    "stock": 8,
+    "activo": true,
+    "fechaPublicacion": "1984-12-14",
+    "descripcion": "Versión traducida y comentada."
+  },
+  {
+    "titulo": "Crónica de una Muerte Anunciada (Ed. 2)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Ficción",
+    "precio": 242.79,
+    "stock": 26,
+    "activo": true,
+    "fechaPublicacion": "1961-03-25",
+    "descripcion": null
+  },
+  {
+    "titulo": "Rayuela (Ed. 2)",
+    "autorNombre": "Julio Cortázar",
+    "genero": "Infantil",
+    "precio": 261.68,
+    "stock": 12,
+    "activo": true,
+    "fechaPublicacion": "1984-05-15",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "Ficciones (Ed. 2)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Ficción",
+    "precio": 114.12,
+    "stock": 19,
+    "activo": true,
+    "fechaPublicacion": "2025-03-03",
+    "descripcion": "Versión traducida y comentada."
+  },
+  {
+    "titulo": "La Sombra del Viento (Ed. 2)",
+    "autorNombre": "Carlos Ruiz Zafón",
+    "genero": "Romántica",
+    "precio": 61.1,
+    "stock": 2,
+    "activo": true,
+    "fechaPublicacion": "1953-07-22",
+    "descripcion": "Versión traducida y comentada."
+  },
+  {
+    "titulo": "Los Detectives Salvajes (Ed. 2)",
+    "autorNombre": "Roberto Bolaño",
+    "genero": "Romántica",
+    "precio": 292.95,
+    "stock": 1,
+    "activo": true,
+    "fechaPublicacion": "1981-02-22",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "Pedro Páramo (Ed. 2)",
+    "autorNombre": "Juan Rulfo",
+    "genero": "Clásico",
+    "precio": 168.81,
+    "stock": 7,
+    "activo": true,
+    "fechaPublicacion": "1968-05-16",
+    "descripcion": null
+  },
+  {
+    "titulo": "La Ciudad y los Perros (Ed. 2)",
+    "autorNombre": "Mario Vargas Llosa",
+    "genero": "Realismo Mágico",
+    "precio": 258.4,
+    "stock": 6,
+    "activo": true,
+    "fechaPublicacion": "2018-05-08",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "Ensayo sobre la Ceguera (Ed. 2)",
+    "autorNombre": "José Saramago",
+    "genero": "Realismo Mágico",
+    "precio": 290.13,
+    "stock": 15,
+    "activo": true,
+    "fechaPublicacion": "1985-06-19",
+    "descripcion": "Recomendada para jóvenes y adultos."
+  },
+  {
+    "titulo": "El Aleph (Ed. 2)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Realismo Mágico",
+    "precio": 176.19,
+    "stock": 2,
+    "activo": false,
+    "fechaPublicacion": "1994-02-06",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "La Metamorfosis (Ed. 2)",
+    "autorNombre": "Franz Kafka",
+    "genero": "Aventura",
+    "precio": 130.81,
+    "stock": 19,
+    "activo": true,
+    "fechaPublicacion": "1983-05-16",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "Madame Bovary (Ed. 2)",
+    "autorNombre": "Gustave Flaubert",
+    "genero": "Clásico",
+    "precio": 126.6,
+    "stock": 22,
+    "activo": true,
+    "fechaPublicacion": "1986-07-04",
+    "descripcion": null
+  },
+  {
+    "titulo": "Guerra y Paz (Ed. 2)",
+    "autorNombre": "León Tolstói",
+    "genero": "Infantil",
+    "precio": 123.62,
+    "stock": 25,
+    "activo": true,
+    "fechaPublicacion": "2001-06-16",
+    "descripcion": "Lectura obligada en múltiples universidades."
+  },
+  {
+    "titulo": "Ana Karenina (Ed. 2)",
+    "autorNombre": "León Tolstói",
+    "genero": "Ficción",
+    "precio": 79.71,
+    "stock": 24,
+    "activo": true,
+    "fechaPublicacion": "1974-09-24",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "Ulises (Ed. 2)",
+    "autorNombre": "James Joyce",
+    "genero": "Ficción",
+    "precio": 110.22,
+    "stock": 16,
+    "activo": true,
+    "fechaPublicacion": "2002-03-17",
+    "descripcion": "Adaptada a cine y televisión."
+  },
+  {
+    "titulo": "Moby Dick (Ed. 2)",
+    "autorNombre": "Herman Melville",
+    "genero": "Drama",
+    "precio": 91.01,
+    "stock": 22,
+    "activo": true,
+    "fechaPublicacion": "2014-11-17",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "Cien Años de Soledad (Ed. 3)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Realismo Mágico",
+    "precio": 222.83,
+    "stock": 16,
+    "activo": true,
+    "fechaPublicacion": "1976-12-21",
+    "descripcion": null
+  },
+  {
+    "titulo": "Don Quijote de la Mancha (Ed. 3)",
+    "autorNombre": "Miguel de Cervantes",
+    "genero": "Ciencia Ficción",
+    "precio": 193.95,
+    "stock": 21,
+    "activo": true,
+    "fechaPublicacion": "2013-11-22",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "El Principito (Ed. 3)",
+    "autorNombre": "Antoine de Saint-Exupéry",
+    "genero": "Drama",
+    "precio": 185.53,
+    "stock": 21,
+    "activo": true,
+    "fechaPublicacion": "2005-05-23",
+    "descripcion": "Versión traducida y comentada."
+  },
+  {
+    "titulo": "1984 (Ed. 3)",
+    "autorNombre": "George Orwell",
+    "genero": "Romántica",
+    "precio": 286.89,
+    "stock": 3,
+    "activo": true,
+    "fechaPublicacion": "1983-08-17",
+    "descripcion": "Versión traducida y comentada."
+  },
+  {
+    "titulo": "Orgullo y Prejuicio (Ed. 3)",
+    "autorNombre": "Jane Austen",
+    "genero": "Realismo Mágico",
+    "precio": 268.37,
+    "stock": 0,
+    "activo": false,
+    "fechaPublicacion": "1951-12-02",
+    "descripcion": "Adaptada a cine y televisión."
+  },
+  {
+    "titulo": "Crónica de una Muerte Anunciada (Ed. 3)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Infantil",
+    "precio": 84.09,
+    "stock": 23,
+    "activo": true,
+    "fechaPublicacion": "2015-12-23",
+    "descripcion": null
+  },
+  {
+    "titulo": "Rayuela (Ed. 3)",
+    "autorNombre": "Julio Cortázar",
+    "genero": "Infantil",
+    "precio": 131.64,
+    "stock": 16,
+    "activo": true,
+    "fechaPublicacion": "1983-04-24",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "Ficciones (Ed. 3)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Clásico",
+    "precio": 61.95,
+    "stock": 17,
+    "activo": true,
+    "fechaPublicacion": "1959-02-01",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "La Sombra del Viento (Ed. 3)",
+    "autorNombre": "Carlos Ruiz Zafón",
+    "genero": "Ciencia Ficción",
+    "precio": 190.66,
+    "stock": 16,
+    "activo": true,
+    "fechaPublicacion": "1953-12-20",
+    "descripcion": "Recomendada para jóvenes y adultos."
+  },
+  {
+    "titulo": "Los Detectives Salvajes (Ed. 3)",
+    "autorNombre": "Roberto Bolaño",
+    "genero": "Realismo Mágico",
+    "precio": 75.68,
+    "stock": 30,
+    "activo": true,
+    "fechaPublicacion": "1992-06-28",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "Pedro Páramo (Ed. 3)",
+    "autorNombre": "Juan Rulfo",
+    "genero": "Ciencia Ficción",
+    "precio": 68.84,
+    "stock": 10,
+    "activo": true,
+    "fechaPublicacion": "2023-11-12",
+    "descripcion": null
+  },
+  {
+    "titulo": "La Ciudad y los Perros (Ed. 3)",
+    "autorNombre": "Mario Vargas Llosa",
+    "genero": "Novela",
+    "precio": 118.34,
+    "stock": 27,
+    "activo": true,
+    "fechaPublicacion": "1999-08-14",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "Ensayo sobre la Ceguera (Ed. 3)",
+    "autorNombre": "José Saramago",
+    "genero": "Distopía",
+    "precio": 267.75,
+    "stock": 1,
+    "activo": true,
+    "fechaPublicacion": "2022-08-04",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "El Aleph (Ed. 3)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Novela",
+    "precio": 116.99,
+    "stock": 11,
+    "activo": true,
+    "fechaPublicacion": "1970-11-07",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "La Metamorfosis (Ed. 3)",
+    "autorNombre": "Franz Kafka",
+    "genero": "Distopía",
+    "precio": 120.59,
+    "stock": 23,
+    "activo": true,
+    "fechaPublicacion": "1978-07-25",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "Madame Bovary (Ed. 3)",
+    "autorNombre": "Gustave Flaubert",
+    "genero": "Clásico",
+    "precio": 60.79,
+    "stock": 29,
+    "activo": false,
+    "fechaPublicacion": "1989-04-14",
+    "descripcion": null
+  },
+  {
+    "titulo": "Guerra y Paz (Ed. 3)",
+    "autorNombre": "León Tolstói",
+    "genero": "Drama",
+    "precio": 166.22,
+    "stock": 15,
+    "activo": true,
+    "fechaPublicacion": "1973-09-09",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "Ana Karenina (Ed. 3)",
+    "autorNombre": "León Tolstói",
+    "genero": "Drama",
+    "precio": 196.0,
+    "stock": 24,
+    "activo": true,
+    "fechaPublicacion": "1971-11-15",
+    "descripcion": "Recomendada para jóvenes y adultos."
+  },
+  {
+    "titulo": "Ulises (Ed. 3)",
+    "autorNombre": "James Joyce",
+    "genero": "Realismo Mágico",
+    "precio": 191.52,
+    "stock": 1,
+    "activo": true,
+    "fechaPublicacion": "1955-02-19",
+    "descripcion": "Adaptada a cine y televisión."
+  },
+  {
+    "titulo": "Moby Dick (Ed. 3)",
+    "autorNombre": "Herman Melville",
+    "genero": "Ficción",
+    "precio": 260.09,
+    "stock": 12,
+    "activo": true,
+    "fechaPublicacion": "2001-01-02",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "Cien Años de Soledad (Ed. 4)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Romántica",
+    "precio": 294.25,
+    "stock": 18,
+    "activo": true,
+    "fechaPublicacion": "1994-03-13",
+    "descripcion": null
+  },
+  {
+    "titulo": "Don Quijote de la Mancha (Ed. 4)",
+    "autorNombre": "Miguel de Cervantes",
+    "genero": "Clásico",
+    "precio": 219.56,
+    "stock": 22,
+    "activo": true,
+    "fechaPublicacion": "2015-05-21",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "El Principito (Ed. 4)",
+    "autorNombre": "Antoine de Saint-Exupéry",
+    "genero": "Ciencia Ficción",
+    "precio": 271.04,
+    "stock": 17,
+    "activo": true,
+    "fechaPublicacion": "1998-05-18",
+    "descripcion": "Lectura obligada en múltiples universidades."
+  },
+  {
+    "titulo": "1984 (Ed. 4)",
+    "autorNombre": "George Orwell",
+    "genero": "Novela",
+    "precio": 80.23,
+    "stock": 13,
+    "activo": true,
+    "fechaPublicacion": "1969-12-09",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "Orgullo y Prejuicio (Ed. 4)",
+    "autorNombre": "Jane Austen",
+    "genero": "Distopía",
+    "precio": 227.64,
+    "stock": 23,
+    "activo": true,
+    "fechaPublicacion": "2021-09-14",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "Crónica de una Muerte Anunciada (Ed. 4)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Romántica",
+    "precio": 138.63,
+    "stock": 5,
+    "activo": true,
+    "fechaPublicacion": "1950-08-05",
+    "descripcion": null
+  },
+  {
+    "titulo": "Rayuela (Ed. 4)",
+    "autorNombre": "Julio Cortázar",
+    "genero": "Novela",
+    "precio": 169.39,
+    "stock": 14,
+    "activo": false,
+    "fechaPublicacion": "1952-07-26",
+    "descripcion": "Lectura obligada en múltiples universidades."
+  },
+  {
+    "titulo": "Ficciones (Ed. 4)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Ciencia Ficción",
+    "precio": 59.27,
+    "stock": 1,
+    "activo": true,
+    "fechaPublicacion": "2015-05-27",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "La Sombra del Viento (Ed. 4)",
+    "autorNombre": "Carlos Ruiz Zafón",
+    "genero": "Novela",
+    "precio": 94.84,
+    "stock": 17,
+    "activo": true,
+    "fechaPublicacion": "2010-09-28",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "Los Detectives Salvajes (Ed. 4)",
+    "autorNombre": "Roberto Bolaño",
+    "genero": "Romántica",
+    "precio": 126.97,
+    "stock": 3,
+    "activo": true,
+    "fechaPublicacion": "1978-06-24",
+    "descripcion": "Lectura obligada en múltiples universidades."
+  },
+  {
+    "titulo": "Pedro Páramo (Ed. 4)",
+    "autorNombre": "Juan Rulfo",
+    "genero": "Romántica",
+    "precio": 289.91,
+    "stock": 26,
+    "activo": true,
+    "fechaPublicacion": "1969-10-02",
+    "descripcion": null
+  },
+  {
+    "titulo": "La Ciudad y los Perros (Ed. 4)",
+    "autorNombre": "Mario Vargas Llosa",
+    "genero": "Clásico",
+    "precio": 134.33,
+    "stock": 2,
+    "activo": true,
+    "fechaPublicacion": "1991-03-11",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "Ensayo sobre la Ceguera (Ed. 4)",
+    "autorNombre": "José Saramago",
+    "genero": "Romántica",
+    "precio": 259.39,
+    "stock": 18,
+    "activo": true,
+    "fechaPublicacion": "1960-12-19",
+    "descripcion": "Adaptada a cine y televisión."
+  },
+  {
+    "titulo": "El Aleph (Ed. 4)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Ciencia Ficción",
+    "precio": 55.97,
+    "stock": 14,
+    "activo": true,
+    "fechaPublicacion": "2000-08-23",
+    "descripcion": "Narrativa intensa y cautivadora."
+  },
+  {
+    "titulo": "La Metamorfosis (Ed. 4)",
+    "autorNombre": "Franz Kafka",
+    "genero": "Aventura",
+    "precio": 54.5,
+    "stock": 12,
+    "activo": true,
+    "fechaPublicacion": "1994-03-07",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "Madame Bovary (Ed. 4)",
+    "autorNombre": "Gustave Flaubert",
+    "genero": "Aventura",
+    "precio": 194.79,
+    "stock": 23,
+    "activo": true,
+    "fechaPublicacion": "1977-02-16",
+    "descripcion": null
+  },
+  {
+    "titulo": "Guerra y Paz (Ed. 4)",
+    "autorNombre": "León Tolstói",
+    "genero": "Drama",
+    "precio": 167.8,
+    "stock": 25,
+    "activo": true,
+    "fechaPublicacion": "1991-12-08",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "Ana Karenina (Ed. 4)",
+    "autorNombre": "León Tolstói",
+    "genero": "Romántica",
+    "precio": 50.5,
+    "stock": 6,
+    "activo": false,
+    "fechaPublicacion": "1980-05-15",
+    "descripcion": "Lectura obligada en múltiples universidades."
+  },
+  {
+    "titulo": "Ulises (Ed. 4)",
+    "autorNombre": "James Joyce",
+    "genero": "Ciencia Ficción",
+    "precio": 97.65,
+    "stock": 20,
+    "activo": true,
+    "fechaPublicacion": "1978-05-11",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "Moby Dick (Ed. 4)",
+    "autorNombre": "Herman Melville",
+    "genero": "Ficción",
+    "precio": 145.2,
+    "stock": 25,
+    "activo": true,
+    "fechaPublicacion": "1962-05-26",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "Cien Años de Soledad (Ed. 5)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Novela",
+    "precio": 298.5,
+    "stock": 27,
+    "activo": true,
+    "fechaPublicacion": "2006-09-28",
+    "descripcion": null
+  },
+  {
+    "titulo": "Don Quijote de la Mancha (Ed. 5)",
+    "autorNombre": "Miguel de Cervantes",
+    "genero": "Romántica",
+    "precio": 188.12,
+    "stock": 18,
+    "activo": true,
+    "fechaPublicacion": "2000-01-12",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "El Principito (Ed. 5)",
+    "autorNombre": "Antoine de Saint-Exupéry",
+    "genero": "Novela",
+    "precio": 142.9,
+    "stock": 20,
+    "activo": true,
+    "fechaPublicacion": "1986-08-24",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "1984 (Ed. 5)",
+    "autorNombre": "George Orwell",
+    "genero": "Romántica",
+    "precio": 100.55,
+    "stock": 5,
+    "activo": true,
+    "fechaPublicacion": "1970-10-22",
+    "descripcion": "Narrativa intensa y cautivadora."
+  },
+  {
+    "titulo": "Orgullo y Prejuicio (Ed. 5)",
+    "autorNombre": "Jane Austen",
+    "genero": "Infantil",
+    "precio": 120.25,
+    "stock": 30,
+    "activo": true,
+    "fechaPublicacion": "1979-10-15",
+    "descripcion": "Narrativa intensa y cautivadora."
+  },
+  {
+    "titulo": "Crónica de una Muerte Anunciada (Ed. 5)",
+    "autorNombre": "Gabriel García Márquez",
+    "genero": "Romántica",
+    "precio": 277.06,
+    "stock": 28,
+    "activo": true,
+    "fechaPublicacion": "1991-10-09",
+    "descripcion": null
+  },
+  {
+    "titulo": "Rayuela (Ed. 5)",
+    "autorNombre": "Julio Cortázar",
+    "genero": "Clásico",
+    "precio": 97.24,
+    "stock": 15,
+    "activo": true,
+    "fechaPublicacion": "2003-05-07",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "Ficciones (Ed. 5)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Aventura",
+    "precio": 145.55,
+    "stock": 0,
+    "activo": true,
+    "fechaPublicacion": "1976-09-06",
+    "descripcion": "Incluye notas y ensayos críticos."
+  },
+  {
+    "titulo": "La Sombra del Viento (Ed. 5)",
+    "autorNombre": "Carlos Ruiz Zafón",
+    "genero": "Ciencia Ficción",
+    "precio": 61.63,
+    "stock": 21,
+    "activo": false,
+    "fechaPublicacion": "1974-06-03",
+    "descripcion": "Adaptada a cine y televisión."
+  },
+  {
+    "titulo": "Los Detectives Salvajes (Ed. 5)",
+    "autorNombre": "Roberto Bolaño",
+    "genero": "Aventura",
+    "precio": 270.83,
+    "stock": 11,
+    "activo": true,
+    "fechaPublicacion": "1960-06-12",
+    "descripcion": "Lectura obligada en múltiples universidades."
+  },
+  {
+    "titulo": "Pedro Páramo (Ed. 5)",
+    "autorNombre": "Juan Rulfo",
+    "genero": "Aventura",
+    "precio": 293.05,
+    "stock": 12,
+    "activo": true,
+    "fechaPublicacion": "2001-03-07",
+    "descripcion": null
+  },
+  {
+    "titulo": "La Ciudad y los Perros (Ed. 5)",
+    "autorNombre": "Mario Vargas Llosa",
+    "genero": "Distopía",
+    "precio": 262.75,
+    "stock": 30,
+    "activo": true,
+    "fechaPublicacion": "2003-04-17",
+    "descripcion": "Edición especial con prólogo de autor."
+  },
+  {
+    "titulo": "Ensayo sobre la Ceguera (Ed. 5)",
+    "autorNombre": "José Saramago",
+    "genero": "Aventura",
+    "precio": 234.26,
+    "stock": 7,
+    "activo": true,
+    "fechaPublicacion": "1999-09-13",
+    "descripcion": "Versión traducida y comentada."
+  },
+  {
+    "titulo": "El Aleph (Ed. 5)",
+    "autorNombre": "Jorge Luis Borges",
+    "genero": "Distopía",
+    "precio": 116.47,
+    "stock": 20,
+    "activo": true,
+    "fechaPublicacion": "1951-04-07",
+    "descripcion": "Narrativa intensa y cautivadora."
+  },
+  {
+    "titulo": "La Metamorfosis (Ed. 5)",
+    "autorNombre": "Franz Kafka",
+    "genero": "Infantil",
+    "precio": 75.48,
+    "stock": 26,
+    "activo": true,
+    "fechaPublicacion": "2023-11-28",
+    "descripcion": "Considerada una obra maestra."
+  },
+  {
+    "titulo": "Madame Bovary (Ed. 5)",
+    "autorNombre": "Gustave Flaubert",
+    "genero": "Ciencia Ficción",
+    "precio": 103.25,
+    "stock": 7,
+    "activo": true,
+    "fechaPublicacion": "1987-02-17",
+    "descripcion": null
+  },
+  {
+    "titulo": "Guerra y Paz (Ed. 5)",
+    "autorNombre": "León Tolstói",
+    "genero": "Clásico",
+    "precio": 160.94,
+    "stock": 0,
+    "activo": true,
+    "fechaPublicacion": "1971-01-02",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "Ana Karenina (Ed. 5)",
+    "autorNombre": "León Tolstói",
+    "genero": "Clásico",
+    "precio": 215.5,
+    "stock": 11,
+    "activo": true,
+    "fechaPublicacion": "1970-11-05",
+    "descripcion": "Adaptada a cine y televisión."
+  },
+  {
+    "titulo": "Ulises (Ed. 5)",
+    "autorNombre": "James Joyce",
+    "genero": "Infantil",
+    "precio": 199.43,
+    "stock": 1,
+    "activo": true,
+    "fechaPublicacion": "2003-07-05",
+    "descripcion": "Obra fundamental de la literatura universal."
+  },
+  {
+    "titulo": "Moby Dick (Ed. 5)",
+    "autorNombre": "Herman Melville",
+    "genero": "Novela",
+    "precio": 175.62,
+    "stock": 1,
+    "activo": false,
+    "fechaPublicacion": "1975-09-04",
+    "descripcion": "Lectura obligada en múltiples universidades."
+  }
+]
