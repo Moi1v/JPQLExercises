@@ -1,7 +1,9 @@
 package com.darwinruiz.ejercicios;
 
+import com.darwinruiz.models.Cliente;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.NoResultException;
 import jakarta.persistence.Persistence;
 
 /*
@@ -14,7 +16,23 @@ public class Activity08_BuscarClienteNamedQuery {
         EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("JPQLExercisesPU");
         EntityManager entityManager = entityManagerFactory.createEntityManager();
         try {
-            // TODO: createNamedQuery(...).setParameter("email", "...").getSingleResult() (maneja NoResultException)
+            String emailBuscar = "maria.gonzalez@ejmplo.com";
+
+            try {
+                Cliente cliente = entityManager.createNamedQuery("Cliente.buscarPorEmail", Cliente.class)
+                        .setParameter("email", emailBuscar)
+                        .getSingleResult();
+
+                System.out.println("=== CLIENTE ENCONTRADO CON NAMED QUERY ===");
+                System.out.println("Email buscado: " + emailBuscar);
+                System.out.println("Cliente encontrado: " + cliente);
+
+            } catch (NoResultException e) {
+                System.out.println("=== CLIENTE NO ENCONTRADO ===");
+                System.out.println("No se encontró ningún cliente con el email: " + emailBuscar);
+                System.out.println("Verifique que el email exista en la base de datos.");
+            }
+
         } finally {
             entityManager.close();
             entityManagerFactory.close();

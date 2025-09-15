@@ -1,7 +1,9 @@
 package com.darwinruiz.ejercicios;
 
+import com.darwinruiz.models.Cliente;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.NoResultException;
 import jakarta.persistence.Persistence;
 
 /*
@@ -19,7 +21,26 @@ public class Activity02_ActualizarClientePorEmail {
         try {
             entityManager.getTransaction().begin();
 
-            // TODO: obtener cliente por NamedQuery, modificar campos y merge
+            String emailBuscar = "maria.gonzalez@ejmplo.com";
+
+            try {
+                Cliente cliente = entityManager.createNamedQuery("Cliente.buscarPorEmail", Cliente.class)
+                        .setParameter("email", emailBuscar)
+                        .getSingleResult();
+
+                System.out.println("Cliente encontrado: " + cliente);
+
+                // Actualizar datos
+                cliente.setNombre("María González");
+                cliente.setCiudad("Ciudad de Guatemala, San Jose Pinula");
+
+                entityManager.merge(cliente);
+
+                System.out.println("Cliente actualizado: " + cliente);
+
+            } catch (NoResultException e) {
+                System.out.println("No se encontró ningún cliente con el email: " + emailBuscar);
+            }
 
             entityManager.getTransaction().commit();
         } catch (RuntimeException exception) {

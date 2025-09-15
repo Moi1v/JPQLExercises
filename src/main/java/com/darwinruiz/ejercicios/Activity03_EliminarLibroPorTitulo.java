@@ -1,8 +1,11 @@
 package com.darwinruiz.ejercicios;
 
+import com.darwinruiz.models.Libro;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.NoResultException;
 import jakarta.persistence.Persistence;
+import jakarta.persistence.TypedQuery;
 
 /*
 ENUNCIADO:
@@ -18,7 +21,24 @@ public class Activity03_EliminarLibroPorTitulo {
         try {
             entityManager.getTransaction().begin();
 
-            // TODO: SELECT l FROM Libro l WHERE l.titulo = :titulo -> remove
+            String tituloBuscar = "1984";
+
+            try {
+                TypedQuery<Libro> query = entityManager.createQuery(
+                        "SELECT l FROM Libro l WHERE l.titulo = :titulo", Libro.class);
+                query.setParameter("titulo", tituloBuscar);
+
+                Libro libro = query.getSingleResult();
+
+                System.out.println("Libro encontrado para eliminar: " + libro);
+
+                entityManager.remove(libro);
+
+                System.out.println("Libro eliminado exitosamente: " + tituloBuscar);
+
+            } catch (NoResultException e) {
+                System.out.println("No se encontró ningún libro con el título: " + tituloBuscar);
+            }
 
             entityManager.getTransaction().commit();
         } catch (RuntimeException exception) {
